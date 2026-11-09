@@ -1,0 +1,5 @@
+Local schedule text recognition uses Tesseract.js 6.0.1 and tesseract.js-core.
+Tesseract.js: https://github.com/naptha/tesseract.js (Apache-2.0)
+Core: https://github.com/naptha/tesseract.js-core (Apache-2.0)
+English and Swedish trained language data: https://github.com/naptha/tessdata
+The application uses same-origin worker, WebAssembly, and language files. Schedule images are processed in browser memory and are not uploaded by this feature.

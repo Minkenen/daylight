@@ -1,0 +1,5 @@
+Animated Character Walk by tleriche
+Source: https://rive.app/marketplace/25442-47488-animated-character-walk/
+License: Creative Commons Attribution (CC BY), https://creativecommons.org/licenses/by/4.0/
+Original Walk animation used. Display colors adapted to a blue palette. Original character motion preserved.
+Rive canvas runtime 2.31.2 — MIT License — https://github.com/rive-app/rive-wasm
